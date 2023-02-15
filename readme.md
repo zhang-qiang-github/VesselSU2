@@ -1,7 +1,7 @@
 
 The result is:
 
-![](./pic/result2.PNG)
+![](./pic/result3.PNG)
 
 The left picture shows the geometry. The yellow color indicates wall, the red color indicates inlet, and blue color indicates the outlet.
 
